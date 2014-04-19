@@ -4,6 +4,9 @@
 /gradle
 /gradlew
 /gradlew.bat
+/build.gradle
+/build.gradle~
+/forge-1.7.2-10.12.0.1047-changelog.txt
 
 ## ForgeGradle
 /run
