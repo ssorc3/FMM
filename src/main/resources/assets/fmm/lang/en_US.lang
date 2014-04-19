@@ -1,0 +1,18 @@
+#Items:
+item.fmm_wand.name=Wand
+fmm_symbol_card0.name=Box Card
+fmm_symbol_card1.name=Custom Card
+fmm_symbol_card2.name=Cross Card
+item.fmm_droid.name=Droid
+item.fmm_colorChanger.name=Color Changer
+
+#Blocks:
+tile.fmm_anvil_machine.name=Anvil Machine
+tile.fmm_bomb.name=Weird Bomb
+tile.fmm_poison.name=Poison Block
+tile.fmm_color.name=Color Deployer
+tile.fmm_windmill.name=Windmill
+tile.fmm_windmillBase.name=Windmill Base
+
+#Tab:
+itemGroup.FMM=FMM

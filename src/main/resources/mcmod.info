@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fmm",
+  "name": "Forge Mod",
+  "description": "Forge Mod.",
+  "version": "1.0",
+  "mcversion": "1.7",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["ssorc3"],
+  "credits": "By ssorc3",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,6 @@
+{
+	"wand":{"category": "master", "sounds": [{"name": "wand","stream": false}]},
+	"beep":{"category": "master", "sounds": [{"name" : "beep", "stream": false}]},
+	"bombfall":{"category": "master", "sounds": [{"name": "bombfall", "stream": false}]},
+	"emptyclick":{"category": "master", "sounds": [{"name": "emptyclick", "stream": false}]}
+}
